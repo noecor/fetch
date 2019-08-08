@@ -1,16 +1,33 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Noelia Coronel",
+    "cvTitle":"Front-End Student",
+    "cvDescription":"Front-End Developer en formación. A pocas materias de recibirme de Lic. en Diseño Gráfico. Con mucho interés en el área de UI Design. Siempre busco la optimización de los procesos.
+    Me encanta el arte en todas sus expresiones.
+    Estoy en búsqueda de nuevos desafíos en el área de tecnología.
+    Mi mail de contacto es: noelia.coronelgonzalez@gmail.com",
     "social":[
-        {"name":"", "link":""}
+        {"name":"LinkedIn" ,"link":"https://www.linkedin.com/in/noelia-coronel-a4864334"}
+        {"name":"Behance", "link":"https://www.behance.net/noeliacoro68a4 "}
+        {"name":"Twitter","link": "https://twitter.com/noerom2"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Licenciatura en Diseño Gráfico", "institution":"Institute", "endYear":"2020", "description":""},
+        {"title":"Técnico Superior en Diseño Gráfico", "institution":"Institute", "endYear":"2015", "description":""}
     ],
     "skills":[
-        {"title":"", "level":""},
+        {"title":"Illustrator", "level":""},
+        {"title":"In Design", "level":""}
+        {"title":"After Effects", "level":""}
+        {"title":"3Ds Max", "level":""}
+        {"title":"JavaScript ES6", "level":""}
+        {"title":"HTML", "level":"Avanzado"}
+        {"title":"CSS", "level":""}
+        {"title":"SASS", "level":""}
+        {"title":"Wordpress", "level":""}
+        {"title":"Visual Studio Code", "level":""}
+        {"title":"Método Agile", "level":""}
+        {"title":"Corel Draw", "level":""}
+        {"title":"Dreamweaver", "level":""}
         {"title":"", "level":""}
     ],
     "blog":[
@@ -18,7 +35,7 @@
         {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"555-5555",
+        "email":"noelia.coronelgonzalez@gmail.com"
     }
 }
