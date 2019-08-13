@@ -1,13 +1,10 @@
 {
     "name":"Noelia Coronel",
     "cvTitle":"Front-End Student",
-    "cvDescription":"Front-End Developer en formación. A pocas materias de recibirme de Lic. en Diseño Gráfico. Con mucho interés en el área de UI Design. Siempre busco la optimización de los procesos.
-    Me encanta el arte en todas sus expresiones.
-    Estoy en búsqueda de nuevos desafíos en el área de tecnología.
-    Mi mail de contacto es: noelia.coronelgonzalez@gmail.com",
+    "cvDescription":"Front-End Developer en formación. A pocas materias de recibirme de Lic. en Diseño Gráfico. Con mucho interés en el área de UI Design. Estoy en búsqueda de nuevos desafíos en el área de tecnología. Mi mail de contacto es: noelia.coronelgonzalez@gmail.com",
     "social":[
-        {"name":"LinkedIn" ,"link":"https://www.linkedin.com/in/noelia-coronel-a4864334"}
-        {"name":"Behance", "link":"https://www.behance.net/noeliacoro68a4 "}
+        {"name":"LinkedIn" ,"link":"https://www.linkedin.com/in/noelia-coronel-a4864334"},
+        {"name":"Behance", "link":"https://www.behance.net/noeliacoro68a4 "},
         {"name":"Twitter","link": "https://twitter.com/noerom2"}
     ],
     "education":[
@@ -16,18 +13,18 @@
     ],
     "skills":[
         {"title":"Illustrator", "level":""},
-        {"title":"In Design", "level":""}
-        {"title":"After Effects", "level":""}
-        {"title":"3Ds Max", "level":""}
-        {"title":"JavaScript ES6", "level":""}
-        {"title":"HTML", "level":""}
-        {"title":"CSS", "level":""}
-        {"title":"SASS", "level":""}
-        {"title":"Wordpress", "level":""}
-        {"title":"Visual Studio Code", "level":""}
-        {"title":"Método Agile", "level":""}
-        {"title":"Corel Draw", "level":""}
-        {"title":"Dreamweaver", "level":""}
+        {"title":"In Design", "level":""},
+        {"title":"After Effects", "level":""},
+        {"title":"3Ds Max", "level":""},
+        {"title":"JavaScript ES6", "level":""},
+        {"title":"HTML", "level":""},
+        {"title":"CSS", "level":""},
+        {"title":"SASS", "level":""},
+        {"title":"Wordpress", "level":""},
+        {"title":"Visual Studio Code", "level":""},
+        {"title":"Método Agile", "level":""},
+        {"title":"Corel Draw", "level":""},
+        {"title":"Dreamweaver", "level":""},
         {"title":"", "level":""}
     ],
     "blog":[
